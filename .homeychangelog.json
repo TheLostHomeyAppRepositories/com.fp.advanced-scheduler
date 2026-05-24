@@ -136,26 +136,26 @@
   },
   "0.4.17": {
     "en": "Updated Dutch language translation, and some minor Swedish translation as well."
-  }, 
+  },
   "0.4.18": {
     "en": "Made new change to reduce storage footprint."
-  }, 
+  },
   "0.4.19": {
     "en": "Updated some German translations."
-  }, 
+  },
   "0.4.20": {
     "en": "Trying to correct offset error for days, created by inaccuracy of time diff operations."
-  }, 
+  },
   "0.4.21": {
     "en": "Intermediate test version for time accuracy."
-  }, 
+  },
   "0.4.22": {
     "en": "New Intermediate test version for time accuracy."
-  }, 
+  },
   "0.4.23": {
     "en": "New Intermediate test version for dayhit error."
+  },
+  "0.4.24": {
+    "en": "Minor corrections. Test release."
   }
-
 }
-
-

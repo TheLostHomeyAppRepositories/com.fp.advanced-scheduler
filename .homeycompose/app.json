@@ -1,6 +1,6 @@
 {
   "id": "com.fp.advanced-scheduler",
-  "version": "0.4.23",
+  "version": "0.4.24",
   "compatibility": ">=5.0.0",
   "sdk": 3,
   "name": {
@@ -24,11 +24,10 @@
   ],
   "api": {
     "getScheduleState": {
-        "method": "get",
-        "path": "/getScheduleState/"
+      "method": "get",
+      "path": "/getScheduleState/"
     }
   },
-
   "images": {
     "large": "/assets/images/large.png",
     "small": "/assets/images/small.png"
