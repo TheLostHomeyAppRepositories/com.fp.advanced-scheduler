@@ -1,5 +1,7 @@
 env.json
 node_modules/
+src/*.js
+src/*.js.map
 src/mainapp.js.map
 app.js
 app.js.map
